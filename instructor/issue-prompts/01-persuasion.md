@@ -1,4 +1,4 @@
-# Issue 1 — Persuasion and Human Decision-Making
+# Issue 1 — Persuasion and Human Decision-Making 
 
 ## Objective
 
